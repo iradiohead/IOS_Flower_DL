@@ -1,0 +1,1585 @@
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:33 .
+drwxrwxrwx  1 radiohead  staff  398 11 16 20:46 ..
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:35 Intermediates
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 Products
+	com.apple.XcodeGenerated	  3 
+-rwxrwxrwx  1 radiohead  staff    0 11 16 22:33 kundapura.txt
+
+./Intermediates:
+total 0
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:35 .
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:33 ..
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 Pods.build
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:35 SwiftMigration
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:54 WhatDog.build
+
+./Intermediates/Pods.build:
+total 8
+drwxrwxrwx@ 1 radiohead  staff   264 11 16 19:55 .
+	com.apple.XcodeGenerated	   3 
+drwxrwxrwx@ 1 radiohead  staff   264 11 16 19:35 ..
+	com.apple.XcodeGenerated	   3 
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:35 Debug-iphoneos
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 Debug-iphonesimulator
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 Release-iphonesimulator
+-rwxrwxrwx  1 radiohead  staff  2563 11 16 21:27 all-product-headers.yaml
+
+./Intermediates/Pods.build/Debug-iphoneos:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:35 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 ..
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  398 11 14 07:49 Pods.build
+
+./Intermediates/Pods.build/Debug-iphoneos/Pods.build:
+total 88
+drwxrwxrwx  1 radiohead  staff   398 11 14 07:49 .
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:35 ..
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:37 DerivedSources
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:37 Objects-normal
+-rwxrwxrwx  1 radiohead  staff  1696 11 14 07:49 Pods-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  1696 11 14 07:37 Pods-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   289 11 14 07:37 Pods-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff  1583 11 14 07:37 Pods-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  4358 11 14 07:37 Pods-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  4639 11 14 07:37 Pods.hmap
+-rwxrwxrwx  1 radiohead  staff  1215 11 14 07:48 dgph
+-rwxrwxrwx  1 radiohead  staff  1215 11 14 07:47 dgph~
+-rwxrwxrwx  1 radiohead  staff    98 11 14 07:37 module.modulemap
+
+./Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 .
+drwxrwxrwx  1 radiohead  staff  398 11 14 07:49 ..
+-rwxrwxrwx  1 radiohead  staff  175 11 14 07:37 Pods_vers.c
+
+./Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 .
+drwxrwxrwx  1 radiohead  staff  398 11 14 07:49 ..
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 arm64
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 armv7
+
+./Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/arm64:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 .
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 ..
+-rwxrwxrwx  1 radiohead  staff  313 11 14 07:37 Pods.LinkFileList
+
+./Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 .
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:37 ..
+-rwxrwxrwx  1 radiohead  staff  313 11 14 07:37 Pods.LinkFileList
+
+./Intermediates/Pods.build/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 ..
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  602 11 16 22:31 ALCameraViewController.build
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 Pods.build
+
+./Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build:
+total 512
+drwxrwxrwx  1 radiohead  staff     602 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 22:29 ALCameraViewController-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1903 11 16 22:29 ALCameraViewController-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff     368 11 16 22:29 ALCameraViewController-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff    1619 11 16 22:29 ALCameraViewController-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    4566 11 16 22:29 ALCameraViewController-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    5101 11 16 22:29 ALCameraViewController.hmap
+-rwxrwxrwx  1 radiohead  staff     181 11 16 22:31 ALConfirmViewController-PartialInfo.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:29 DerivedSources
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:29 Objects-normal
+-rwxrwxrwx  1 radiohead  staff     491 11 16 22:31 assetcatalog_dependencies
+-rwxrwxrwx  1 radiohead  staff     181 11 16 22:31 assetcatalog_generated_info.plist
+-rwxrwxrwx  1 radiohead  staff  194464 11 16 22:31 dgph
+-rwxrwxrwx  1 radiohead  staff    2991 11 16 22:28 dgph~
+-rwxrwxrwx  1 radiohead  staff     219 11 16 22:29 module.modulemap
+-rwxrwxrwx  1 radiohead  staff     526 11 16 22:29 swift-overrides.hmap
+-rwxrwxrwx  1 radiohead  staff     539 11 16 22:29 unextended-module-overlay.yaml
+-rwxrwxrwx  1 radiohead  staff     229 11 16 22:29 unextended-module.modulemap
+
+./Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:29 .
+drwxrwxrwx  1 radiohead  staff  602 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff  356 11 16 22:29 ALCameraViewController_vers.c
+
+./Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:29 .
+drwxrwxrwx  1 radiohead  staff   602 11 16 22:31 ..
+drwxrwxrwx  1 radiohead  staff  3118 11 16 22:30 x86_64
+
+./Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/Objects-normal/x86_64:
+total 6168
+drwxrwxrwx  1 radiohead  staff    3118 11 16 22:30 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:29 ..
+-rwxrwxrwx  1 radiohead  staff   13758 11 16 22:30 ALCameraShot.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCameraShot.dia
+-rwxrwxrwx  1 radiohead  staff   41632 11 16 22:30 ALCameraShot.o
+-rwxrwxrwx  1 radiohead  staff   14925 11 16 22:30 ALCameraShot.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALCameraShot~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   16436 11 16 22:30 ALCameraShot~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13758 11 16 22:30 ALCameraView.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCameraView.dia
+-rwxrwxrwx  1 radiohead  staff  115832 11 16 22:30 ALCameraView.o
+-rwxrwxrwx  1 radiohead  staff   69831 11 16 22:30 ALCameraView.swiftdeps
+-rwxrwxrwx  1 radiohead  staff   19978 11 16 22:29 ALCameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff    6674 11 16 22:30 ALCameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff     323 11 16 22:30 ALCameraViewController-dummy.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCameraViewController-dummy.dia
+-rwxrwxrwx  1 radiohead  staff    4992 11 16 22:30 ALCameraViewController-dummy.o
+-rwxrwxrwx  1 radiohead  staff    2393 11 16 22:30 ALCameraViewController-master.swiftdeps
+-rwxrwxrwx  1 radiohead  staff    2877 11 16 22:29 ALCameraViewController.LinkFileList
+-rwxrwxrwx  1 radiohead  staff   13788 11 16 22:30 ALCameraViewController.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCameraViewController.dia
+-rwxrwxrwx  1 radiohead  staff  230320 11 16 22:30 ALCameraViewController.o
+-rwxrwxrwx  1 radiohead  staff  135850 11 16 22:30 ALCameraViewController.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALCameraViewController.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   84520 11 16 22:30 ALCameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   86445 11 16 22:30 ALCameraViewController_dependency_info.dat
+-rwxrwxrwx  1 radiohead  staff     212 11 16 22:30 ALCameraViewController_vers.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCameraViewController_vers.dia
+-rwxrwxrwx  1 radiohead  staff    2664 11 16 22:30 ALCameraViewController_vers.o
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALCameraViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   87500 11 16 22:30 ALCameraViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALCameraView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  107356 11 16 22:30 ALCameraView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13791 11 16 22:30 ALConfirmViewController.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALConfirmViewController.dia
+-rwxrwxrwx  1 radiohead  staff  144292 11 16 22:30 ALConfirmViewController.o
+-rwxrwxrwx  1 radiohead  staff   91078 11 16 22:30 ALConfirmViewController.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALConfirmViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   84752 11 16 22:30 ALConfirmViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13761 11 16 22:30 ALCropOverlay.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALCropOverlay.dia
+-rwxrwxrwx  1 radiohead  staff   82228 11 16 22:30 ALCropOverlay.o
+-rwxrwxrwx  1 radiohead  staff   57158 11 16 22:30 ALCropOverlay.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALCropOverlay~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   70340 11 16 22:30 ALCropOverlay~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13755 11 16 22:30 ALImageCell.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALImageCell.dia
+-rwxrwxrwx  1 radiohead  staff   48944 11 16 22:30 ALImageCell.o
+-rwxrwxrwx  1 radiohead  staff   42805 11 16 22:30 ALImageCell.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImageCell~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   47048 11 16 22:30 ALImageCell~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13773 11 16 22:30 ALImageExtensions.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALImageExtensions.dia
+-rwxrwxrwx  1 radiohead  staff   23492 11 16 22:30 ALImageExtensions.o
+-rwxrwxrwx  1 radiohead  staff   22562 11 16 22:30 ALImageExtensions.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImageExtensions~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   30948 11 16 22:30 ALImageExtensions~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13797 11 16 22:30 ALImageFetchingInteractor.d
+-rwxrwxrwx  1 radiohead  staff     580 11 16 22:30 ALImageFetchingInteractor.dia
+-rwxrwxrwx  1 radiohead  staff   61664 11 16 22:30 ALImageFetchingInteractor.o
+-rwxrwxrwx  1 radiohead  staff   19080 11 16 22:30 ALImageFetchingInteractor.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImageFetchingInteractor~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   87172 11 16 22:30 ALImageFetchingInteractor~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13758 11 16 22:30 ALImageModel.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALImageModel.dia
+-rwxrwxrwx  1 radiohead  staff   45444 11 16 22:30 ALImageModel.o
+-rwxrwxrwx  1 radiohead  staff    6934 11 16 22:30 ALImageModel.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImageModel~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   33764 11 16 22:30 ALImageModel~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13803 11 16 22:30 ALImagePickerViewController.d
+-rwxrwxrwx  1 radiohead  staff     504 11 16 22:30 ALImagePickerViewController.dia
+-rwxrwxrwx  1 radiohead  staff  108684 11 16 22:30 ALImagePickerViewController.o
+-rwxrwxrwx  1 radiohead  staff   82185 11 16 22:30 ALImagePickerViewController.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImagePickerViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   54284 11 16 22:30 ALImagePickerViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13797 11 16 22:30 ALImagePickerViewDelegate.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALImagePickerViewDelegate.dia
+-rwxrwxrwx  1 radiohead  staff   64124 11 16 22:30 ALImagePickerViewDelegate.o
+-rwxrwxrwx  1 radiohead  staff   44256 11 16 22:30 ALImagePickerViewDelegate.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALImagePickerViewDelegate~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   44948 11 16 22:30 ALImagePickerViewDelegate~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13773 11 16 22:30 ALPermissionsView.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALPermissionsView.dia
+-rwxrwxrwx  1 radiohead  staff   78996 11 16 22:30 ALPermissionsView.o
+-rwxrwxrwx  1 radiohead  staff   71731 11 16 22:30 ALPermissionsView.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALPermissionsView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   48300 11 16 22:30 ALPermissionsView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   13755 11 16 22:30 ALUtilities.d
+-rwxrwxrwx  1 radiohead  staff     220 11 16 22:30 ALUtilities.dia
+-rwxrwxrwx  1 radiohead  staff   32400 11 16 22:30 ALUtilities.o
+-rwxrwxrwx  1 radiohead  staff   11253 11 16 22:30 ALUtilities.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     612 11 16 22:30 ALUtilities~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   41852 11 16 22:30 ALUtilities~partial.swiftmodule
+
+./Intermediates/Pods.build/Debug-iphonesimulator/Pods.build:
+total 16
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  1406 11 16 22:28 dgph
+-rwxrwxrwx  1 radiohead  staff   123 11 16 22:28 dgph~
+
+./Intermediates/Pods.build/Release-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 ..
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:29 ALCameraViewController.build
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:29 Pods.build
+
+./Intermediates/Pods.build/Release-iphonesimulator/ALCameraViewController.build:
+total 16
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:29 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  3623 11 16 22:29 dgph
+-rwxrwxrwx  1 radiohead  staff   123 11 16 22:28 dgph~
+
+./Intermediates/Pods.build/Release-iphonesimulator/Pods.build:
+total 16
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:29 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  1499 11 16 22:29 dgph
+-rwxrwxrwx  1 radiohead  staff   123 11 16 22:28 dgph~
+
+./Intermediates/SwiftMigration:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:35 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:35 ..
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 WhatDog
+
+./Intermediates/SwiftMigration/WhatDog:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:35 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 Intermediates
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 Migration
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 Products
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 Pods.build
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 WhatDog.build
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build:
+total 8
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:09 Debug-iphonesimulator
+-rwxrwxrwx  1 radiohead  staff  2859 11 16 21:09 all-product-headers.yaml
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  602 11 16 21:24 ALCameraViewController.build
+drwxrwxrwx  1 radiohead  staff  364 11 16 21:24 Pods.build
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build:
+total 1048
+drwxrwxrwx  1 radiohead  staff     602 11 16 21:24 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 21:09 ALCameraViewController-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1903 11 16 21:09 ALCameraViewController-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff     405 11 16 21:09 ALCameraViewController-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff    1619 11 16 21:09 ALCameraViewController-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    4566 11 16 21:09 ALCameraViewController-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    5138 11 16 21:09 ALCameraViewController.hmap
+-rwxrwxrwx  1 radiohead  staff     181 11 16 21:16 ALConfirmViewController-PartialInfo.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 DerivedSources
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 Objects-normal
+-rwxrwxrwx  1 radiohead  staff     565 11 16 21:16 assetcatalog_dependencies
+-rwxrwxrwx  1 radiohead  staff     181 11 16 21:16 assetcatalog_generated_info.plist
+-rwxrwxrwx  1 radiohead  staff  233626 11 16 21:24 dgph
+-rwxrwxrwx  1 radiohead  staff  233626 11 16 21:16 dgph~
+-rwxrwxrwx  1 radiohead  staff     219 11 16 21:09 module.modulemap
+-rwxrwxrwx  1 radiohead  staff     526 11 16 21:09 swift-overrides.hmap
+-rwxrwxrwx  1 radiohead  staff     613 11 16 21:09 unextended-module-overlay.yaml
+-rwxrwxrwx  1 radiohead  staff     229 11 16 21:09 unextended-module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff  602 11 16 21:24 ..
+-rwxrwxrwx  1 radiohead  staff  356 11 16 21:09 ALCameraViewController_vers.c
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff   602 11 16 21:24 ..
+drwxrwxrwx  1 radiohead  staff  1520 11 16 21:14 x86_64
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/ALCameraViewController.build/Objects-normal/x86_64:
+total 912
+drwxrwxrwx  1 radiohead  staff   1520 11 16 21:14 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:12 ALCameraShot.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:11 ALCameraShot~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  10976 11 16 21:11 ALCameraShot~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:12 ALCameraView.dia
+-rwxrwxrwx  1 radiohead  staff  25783 11 16 21:09 ALCameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   5841 11 16 21:14 ALCameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff   2394 11 16 21:14 ALCameraViewController-master.swiftdeps
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:12 ALCameraViewController.dia
+-rwxrwxrwx  1 radiohead  staff    728 11 16 21:14 ALCameraViewController.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  75380 11 16 21:14 ALCameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:11 ALCameraViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  21264 11 16 21:11 ALCameraViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:11 ALCameraView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  16768 11 16 21:11 ALCameraView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:12 ALConfirmViewController.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:11 ALConfirmViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  23136 11 16 21:11 ALConfirmViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALCropOverlay.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALCropOverlay~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  16496 11 16 21:13 ALCropOverlay~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImageCell.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALImageCell~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  12972 11 16 21:13 ALImageCell~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImageExtensions.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALImageExtensions~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  10252 11 16 21:13 ALImageExtensions~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImageFetchingInteractor.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALImageFetchingInteractor~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  17540 11 16 21:13 ALImageFetchingInteractor~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImageModel.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALImageModel~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  12448 11 16 21:13 ALImageModel~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImagePickerViewController.dia
+-rwxrwxrwx  1 radiohead  staff    728 11 16 21:13 ALImagePickerViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  18452 11 16 21:13 ALImagePickerViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALImagePickerViewDelegate.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALImagePickerViewDelegate~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  19836 11 16 21:13 ALImagePickerViewDelegate~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALPermissionsView.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALPermissionsView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  13468 11 16 21:13 ALPermissionsView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    220 11 16 21:13 ALUtilities.dia
+-rwxrwxrwx  1 radiohead  staff    532 11 16 21:13 ALUtilities~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   9692 11 16 21:13 ALUtilities~partial.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build:
+total 168
+drwxrwxrwx  1 radiohead  staff    364 11 16 21:24 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 21:09 ..
+drwxrwxrwx  1 radiohead  staff    264 11 16 19:36 DerivedSources
+-rwxrwxrwx  1 radiohead  staff   1561 11 16 19:36 Pods-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   1903 11 16 21:16 Pods-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    333 11 16 19:36 Pods-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff   1583 11 16 19:36 Pods-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   4566 11 16 21:16 Pods-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   4950 11 16 21:16 Pods.hmap
+-rwxrwxrwx  1 radiohead  staff  21076 11 16 21:24 dgph
+-rwxrwxrwx  1 radiohead  staff  21076 11 16 21:16 dgph~
+-rwxrwxrwx  1 radiohead  staff     98 11 16 19:36 module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  364 11 16 21:24 ..
+-rwxrwxrwx  1 radiohead  staff  266 11 16 19:36 Pods_vers.c
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 Debug-iphonesimulator
+-rwxrwxrwx  1 radiohead  staff   66 11 16 21:16 all-product-headers.yaml
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  602 11 16 19:56 CameraViewController.build
+drwxrwxrwx  1 radiohead  staff  670 11 16 21:24 WhatDog.build
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build:
+total 1224
+drwxrwxrwx  1 radiohead  staff     602 11 16 19:56 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:36 ..
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 19:36 CameraViewController-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1716 11 16 19:36 CameraViewController-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff     400 11 16 19:36 CameraViewController-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff    1724 11 16 19:36 CameraViewController-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1965 11 16 19:36 CameraViewController-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    2386 11 16 19:36 CameraViewController.hmap
+-rwxrwxrwx  1 radiohead  staff     181 11 16 19:37 ConfirmViewController-PartialInfo.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:36 DerivedSources
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:36 Objects-normal
+-rwxrwxrwx  1 radiohead  staff     534 11 16 19:37 assetcatalog_dependencies
+-rwxrwxrwx  1 radiohead  staff     181 11 16 19:37 assetcatalog_generated_info.plist
+-rwxrwxrwx  1 radiohead  staff   84786 11 16 19:56 dgph
+-rwxrwxrwx  1 radiohead  staff  485331 11 16 19:54 dgph~
+-rwxrwxrwx  1 radiohead  staff     202 11 16 19:36 module.modulemap
+-rwxrwxrwx  1 radiohead  staff     520 11 16 19:36 swift-overrides.hmap
+-rwxrwxrwx  1 radiohead  staff     612 11 16 19:36 unextended-module-overlay.yaml
+-rwxrwxrwx  1 radiohead  staff     212 11 16 19:36 unextended-module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  602 11 16 19:56 ..
+-rwxrwxrwx  1 radiohead  staff  349 11 16 19:36 CameraViewController_vers.c
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff   602 11 16 19:56 ..
+drwxrwxrwx  1 radiohead  staff  1554 11 16 19:55 x86_64
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/Objects-normal/x86_64:
+total 1144
+drwxrwxrwx  1 radiohead  staff    1554 11 16 19:55 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:36 ..
+-rwxrwxrwx  1 radiohead  staff       0 11 16 19:55 CameraGlobals.dia
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 CameraGlobals~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   11924 11 16 19:36 CameraGlobals~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff       0 11 16 19:55 CameraShot.dia
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 CameraShot~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff    9744 11 16 19:36 CameraShot~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   34918 11 16 19:36 CameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff    9409 11 16 19:47 CameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff    2725 11 16 19:47 CameraViewController-master.swiftdeps
+-rwxrwxrwx  1 radiohead  staff   15680 11 16 19:37 CameraViewController.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  110012 11 16 19:37 CameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    9956 11 16 19:36 CameraViewControllerConstraint~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   15268 11 16 19:36 CameraViewControllerConstraint~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    6700 11 16 19:36 CameraViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   36448 11 16 19:36 CameraViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 CameraView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   18228 11 16 19:37 CameraView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 ConfirmViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   24128 11 16 19:37 ConfirmViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 CropOverlay~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   16496 11 16 19:37 CropOverlay~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 ImageCell~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   12268 11 16 19:37 ImageCell~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff       0 11 16 19:55 ImageFetcher.dia
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 ImageFetcher~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   17304 11 16 19:36 ImageFetcher~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 PermissionsView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   14012 11 16 19:37 PermissionsView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff       0 11 16 19:55 PhotoLibraryAuthorizer.dia
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 PhotoLibraryAuthorizer~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   10584 11 16 19:36 PhotoLibraryAuthorizer~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:37 PhotoLibraryViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   24872 11 16 19:37 PhotoLibraryViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 SingleImageFetcher~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   14336 11 16 19:36 SingleImageFetcher~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 SingleImageSaver~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   13168 11 16 19:36 SingleImageSaver~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 UIButtonExtensions~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   12372 11 16 19:36 UIButtonExtensions~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 UIViewExtensions~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff    9716 11 16 19:36 UIViewExtensions~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 Utilities~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   11964 11 16 19:36 Utilities~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:36 VolumeControl~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   11980 11 16 19:36 VolumeControl~partial.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build:
+total 2640
+drwxrwxrwx  1 radiohead  staff     670 11 16 21:24 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:53 Base.lproj
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:51 DerivedSources
+-rwxrwxrwx  1 radiohead  staff     181 11 16 19:53 LaunchScreen-SBPartialInfo.plist
+-rwxrwxrwx  1 radiohead  staff     181 11 16 19:53 Main-SBPartialInfo.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 Objects-normal
+-rwxrwxrwx  1 radiohead  staff      73 11 16 19:37 Script-429F27A8DEA0FE4C313E40F8.sh
+-rwxrwxrwx  1 radiohead  staff      74 11 16 19:37 Script-51A051E9C807F06C09A00EAF.sh
+-rwxrwxrwx  1 radiohead  staff     259 11 16 19:37 Script-611248F3B18E9B3DDB7E74DE.sh
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 19:37 WhatDog-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 21:16 WhatDog-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff     121 11 16 19:37 WhatDog-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 19:37 WhatDog-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1920 11 16 21:16 WhatDog-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1853 11 16 21:16 WhatDog.hmap
+-rwxrwxrwx  1 radiohead  staff    1194 11 16 19:53 assetcatalog_dependencies
+-rwxrwxrwx  1 radiohead  staff     633 11 16 19:53 assetcatalog_generated_info.plist
+-rwxrwxrwx  1 radiohead  staff  644170 11 16 21:24 dgph
+-rwxrwxrwx  1 radiohead  staff  644170 11 16 21:23 dgph~
+-rwxrwxrwx  1 radiohead  staff     481 11 16 19:37 swift-overrides.hmap
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/Base.lproj:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff  670 11 16 21:24 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:53 LaunchScreen.storyboardc
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:53 Main.storyboardc
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 ..
+-rwxrwxrwx  1 radiohead  staff  1792 11 16 19:53 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rwxrwxrwx  1 radiohead  staff   258 11 16 19:53 Info.plist
+-rwxrwxrwx  1 radiohead  staff   832 11 16 19:53 UIViewController-01J-lp-oVM.nib
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/Base.lproj/Main.storyboardc:
+total 56
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 ..
+-rwxrwxrwx  1 radiohead  staff  2680 11 16 19:53 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rwxrwxrwx  1 radiohead  staff   313 11 16 19:53 Info.plist
+-rwxrwxrwx  1 radiohead  staff  2180 11 16 19:53 UINavigationController-wqc-pw-r1P.nib
+-rwxrwxrwx  1 radiohead  staff  9186 11 16 19:53 mdu-8n-pUQ-view-QaY-GN-Mnd.nib
+-rwxrwxrwx  1 radiohead  staff  1059 11 16 19:53 secondView.nib
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/DerivedSources:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:51 .
+drwxrwxrwx  1 radiohead  staff  670 11 16 21:24 ..
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:37 .
+drwxrwxrwx  1 radiohead  staff   670 11 16 21:24 ..
+drwxrwxrwx  1 radiohead  staff  1384 11 16 21:17 x86_64
+
+./Intermediates/SwiftMigration/WhatDog/Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build/Objects-normal/x86_64:
+total 2064
+drwxrwxrwx  1 radiohead  staff    1384 11 16 21:17 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 ..
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:40 AppDelegate~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   20108 11 16 19:40 AppDelegate~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     776 11 16 19:40 CSS~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   12912 11 16 19:40 CSS~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:41 ContentView~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   14280 11 16 19:41 ContentView~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:41 DogPool~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   12204 11 16 19:41 DogPool~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:40 HTTPVerify~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   10144 11 16 19:40 HTTPVerify~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:41 ItemClass~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   10924 11 16 19:41 ItemClass~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   99405 11 16 21:17 ItemViewAdp.d
+-rwxrwxrwx  1 radiohead  staff     712 11 16 21:17 ItemViewAdp.dia
+-rwxrwxrwx  1 radiohead  staff   53671 11 16 21:17 ItemViewAdp.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:38 ItemViewAdp~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   13024 11 16 19:38 ItemViewAdp~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff    2228 11 16 19:50 Kanna~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   30524 11 16 19:50 Kanna~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   99432 11 16 21:17 SecondViewController.d
+-rwxrwxrwx  1 radiohead  staff     712 11 16 21:17 SecondViewController.dia
+-rwxrwxrwx  1 radiohead  staff  147480 11 16 21:17 SecondViewController.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:38 SecondViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   24812 11 16 19:38 SecondViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   99414 11 16 21:17 ViewController.d
+-rwxrwxrwx  1 radiohead  staff     712 11 16 21:17 ViewController.dia
+-rwxrwxrwx  1 radiohead  staff   41018 11 16 21:17 ViewController.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:38 ViewController~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   12876 11 16 19:38 ViewController~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   20914 11 16 21:16 WhatDog-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff    1719 11 16 21:17 WhatDog-master.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:40 libxmlHTMLDocument~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   23652 11 16 19:40 libxmlHTMLDocument~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff     624 11 16 19:41 libxmlHTMLNode~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   18184 11 16 19:41 libxmlHTMLNode~partial.swiftmodule
+-rwxrwxrwx  1 radiohead  staff   99426 11 16 21:17 libxmlParserOption.d
+-rwxrwxrwx  1 radiohead  staff     712 11 16 21:17 libxmlParserOption.dia
+-rwxrwxrwx  1 radiohead  staff   40943 11 16 21:17 libxmlParserOption.swiftdeps
+-rwxrwxrwx  1 radiohead  staff     532 11 16 19:38 libxmlParserOption~partial.swiftdoc
+-rwxrwxrwx  1 radiohead  staff   24360 11 16 19:38 libxmlParserOption~partial.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Migration:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  466 11 16 21:13 ALCameraViewController-swift.migrate
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:55 CameraViewController-swift.migrate
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 Pods-swift.migrate
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 WhatDog-swift.migrate
+
+./Intermediates/SwiftMigration/WhatDog/Migration/ALCameraViewController-swift.migrate:
+total 312
+drwxrwxrwx  1 radiohead  staff    466 11 16 21:13 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff   1448 11 16 21:12 ALCameraShot.remap
+-rwxrwxrwx  1 radiohead  staff   7361 11 16 21:12 ALCameraView.remap
+-rwxrwxrwx  1 radiohead  staff  45521 11 16 21:12 ALCameraViewController.remap
+-rwxrwxrwx  1 radiohead  staff   9827 11 16 21:12 ALConfirmViewController.remap
+-rwxrwxrwx  1 radiohead  staff  12924 11 16 21:13 ALCropOverlay.remap
+-rwxrwxrwx  1 radiohead  staff   4765 11 16 21:13 ALImageCell.remap
+-rwxrwxrwx  1 radiohead  staff   8260 11 16 21:13 ALImageExtensions.remap
+-rwxrwxrwx  1 radiohead  staff   9018 11 16 21:13 ALImageFetchingInteractor.remap
+-rwxrwxrwx  1 radiohead  staff      4 11 16 21:13 ALImageModel.remap
+-rwxrwxrwx  1 radiohead  staff  10198 11 16 21:13 ALImagePickerViewController.remap
+-rwxrwxrwx  1 radiohead  staff   2955 11 16 21:13 ALImagePickerViewDelegate.remap
+-rwxrwxrwx  1 radiohead  staff   9531 11 16 21:13 ALPermissionsView.remap
+-rwxrwxrwx  1 radiohead  staff   3565 11 16 21:13 ALUtilities.remap
+
+./Intermediates/SwiftMigration/WhatDog/Migration/CameraViewController-swift.migrate:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:55 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 ..
+
+./Intermediates/SwiftMigration/WhatDog/Migration/Pods-swift.migrate:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 ..
+
+./Intermediates/SwiftMigration/WhatDog/Migration/WhatDog-swift.migrate:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 ..
+
+./Intermediates/SwiftMigration/WhatDog/Products:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 Debug-iphonesimulator
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:36 ..
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:16 ALCameraViewController.framework
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:37 CameraViewController.framework
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:16 Pods.framework
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 WhatDog.app
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:51 WhatDog.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/ALCameraViewController.framework:
+total 296
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff     376 11 16 21:14 ALCameraView.strings
+-rwxrwxrwx  1 radiohead  staff    5880 11 16 21:16 ALConfirmViewController.nib
+-rwxrwxrwx  1 radiohead  staff  133333 11 16 21:16 Assets.car
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:16 Headers
+-rwxrwxrwx  1 radiohead  staff     824 11 16 21:16 Info.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:16 Modules
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/ALCameraViewController.framework/Headers:
+total 24
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:16 ..
+-rwxrwxrwx  1 radiohead  staff  5841 11 16 21:14 ALCameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff   166 11 16 21:16 ALCameraViewController-umbrella.h
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/ALCameraViewController.framework/Modules:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:14 ALCameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff  219 11 16 21:16 module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/ALCameraViewController.framework/Modules/ALCameraViewController.swiftmodule:
+total 160
+drwxrwxrwx  1 radiohead  staff    264 11 16 21:14 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 21:16 ..
+-rwxrwxrwx  1 radiohead  staff    728 11 16 21:14 x86_64.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  75380 11 16 21:14 x86_64.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/CameraViewController.framework:
+total 312
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff  141279 11 16 19:37 Assets.car
+-rwxrwxrwx  1 radiohead  staff     511 11 16 19:37 CameraView.strings
+-rwxrwxrwx  1 radiohead  staff    7070 11 16 19:37 ConfirmViewController.nib
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:47 Headers
+-rwxrwxrwx  1 radiohead  staff     792 11 16 19:37 Info.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 Modules
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/CameraViewController.framework/Headers:
+total 32
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:47 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:37 ..
+-rwxrwxrwx  1 radiohead  staff  9409 11 16 19:47 CameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff   573 11 16 19:37 CameraViewController.h
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/CameraViewController.framework/Modules:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:37 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:37 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:37 CameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff  202 11 16 19:37 module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/CameraViewController.framework/Modules/CameraViewController.swiftmodule:
+total 248
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:37 ..
+-rwxrwxrwx  1 radiohead  staff   15680 11 16 19:37 x86_64.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  110012 11 16 19:37 x86_64.swiftmodule
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/Pods.framework:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 Headers
+-rwxrwxrwx  1 radiohead  staff  759 11 16 21:16 Info.plist
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 Modules
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/Pods.framework/Headers:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 ..
+-rwxrwxrwx  1 radiohead  staff  130 11 16 21:16 Pods-umbrella.h
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/Pods.framework/Modules:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:36 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:16 ..
+-rwxrwxrwx  1 radiohead  staff   98 11 16 19:36 module.modulemap
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app:
+total 30120
+drwxrwxrwx  1 radiohead  staff    6246 11 16 21:23 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff   60507  8 18 20:02 AppIcon60x60@2x.png
+-rwxrwxrwx  1 radiohead  staff  132577  8 18 20:02 AppIcon60x60@3x.png
+-rwxrwxrwx  1 radiohead  staff   95360  8 18 20:01 AppIcon76x76@2x~ipad.png
+-rwxrwxrwx  1 radiohead  staff   25967  8 18 20:01 AppIcon76x76~ipad.png
+-rwxrwxrwx  1 radiohead  staff  114520  8 18 20:04 AppIcon83.5x83.5@2x~ipad.png
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:53 Base.lproj
+-rwxrwxrwx  1 radiohead  staff   25944 11 16 19:52 Certified-Stamp-PNG-Picture.png
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:17 Frameworks
+-rwxrwxrwx  1 radiohead  staff     907 11 16 19:51 GoogleService-Info.plist
+-rwxrwxrwx  1 radiohead  staff    2402 11 16 19:53 Info.plist
+-rwxrwxrwx  1 radiohead  staff       8 11 16 19:53 PkgInfo
+-rwxrwxrwx  1 radiohead  staff    6772 11 16 19:52 Sharebutton.png
+-rwxrwxrwx  1 radiohead  staff    6774 11 16 19:52 Sharebuttontouch.png
+drwxrwxrwx  1 radiohead  staff     264  7 21 21:08 TencentOpenApi_IOS_Bundle.bundle
+-rwxrwxrwx  1 radiohead  staff    6274 11 16 21:18 UMSCommentDetailController.nib
+-rwxrwxrwx  1 radiohead  staff    8002 11 16 21:20 UMSCommentInputController.nib
+-rwxrwxrwx  1 radiohead  staff    7639 11 16 21:20 UMSCommentInputControlleriPad.nib
+-rwxrwxrwx  1 radiohead  staff    1715 11 16 21:21 UMSLoginViewController.nib
+-rwxrwxrwx  1 radiohead  staff    1682 11 16 21:21 UMSShareListController.nib
+-rwxrwxrwx  1 radiohead  staff    7444 11 16 21:21 UMShareEditViewController.nib
+-rwxrwxrwx  1 radiohead  staff    8162 11 16 21:21 UMShareEditViewControlleriPad.nib
+-rwxrwxrwx  1 radiohead  staff    8944 11 16 21:21 UMSnsAccountViewController.nib
+drwxrwxrwx  1 radiohead  staff     264  7 21 21:08 UMSocialSDKResourcesNew.bundle
+drwxrwxrwx  1 radiohead  staff     264  7 21 21:08 WeiboSDK.bundle
+-rwxrwxrwx  1 radiohead  staff   46933 11 16 19:52 buttonbefore.png
+-rwxrwxrwx  1 radiohead  staff   47356 11 16 19:52 buttontouch.png
+drwxrwxrwx  1 radiohead  staff     264  7 21 21:08 en.lproj
+-rwxrwxrwx  1 radiohead  staff  100418 11 16 19:51 n03061893_1475.JPEG
+-rwxrwxrwx  1 radiohead  staff   42122 11 16 19:52 n04971211_516.JPEG
+-rwxrwxrwx  1 radiohead  staff  111190 11 16 19:52 n07826340_566.JPEG
+-rwxrwxrwx  1 radiohead  staff   70646 11 16 19:52 n11699442_623.JPEG
+-rwxrwxrwx  1 radiohead  staff   62842 11 16 19:52 n11710136_331.JPEG
+-rwxrwxrwx  1 radiohead  staff   96270 11 16 19:51 n11715430_62.JPEG
+-rwxrwxrwx  1 radiohead  staff   96628 11 16 19:52 n11719286_796.JPEG
+-rwxrwxrwx  1 radiohead  staff   32329 11 16 19:51 n11720643_94.JPEG
+-rwxrwxrwx  1 radiohead  staff  109088 11 16 19:51 n11721337_162.JPEG
+-rwxrwxrwx  1 radiohead  staff   63979 11 16 19:52 n11723452_2480.JPEG
+-rwxrwxrwx  1 radiohead  staff  109948 11 16 19:52 n11725015_82.JPEG
+-rwxrwxrwx  1 radiohead  staff   62095 11 16 19:52 n11725973_92.JPEG
+-rwxrwxrwx  1 radiohead  staff   24645 11 16 19:51 n11727091_74.JPEG
+-rwxrwxrwx  1 radiohead  staff   99860 11 16 19:52 n11728099_9.JPEG
+-rwxrwxrwx  1 radiohead  staff   94156 11 16 19:52 n11731659_154.JPEG
+-rwxrwxrwx  1 radiohead  staff  102222 11 16 19:52 n11733054_946.JPEG
+-rwxrwxrwx  1 radiohead  staff  111959 11 16 19:51 n11733548_51.JPEG
+-rwxrwxrwx  1 radiohead  staff  154827 11 16 19:52 n11736851_9.JPEG
+-rwxrwxrwx  1 radiohead  staff  149549 11 16 19:52 n11754893_211.JPEG
+-rwxrwxrwx  1 radiohead  staff   98870 11 16 19:51 n11758276_59.JPEG
+-rwxrwxrwx  1 radiohead  staff   94558 11 16 19:52 n11773987_364.JPEG
+-rwxrwxrwx  1 radiohead  staff   73705 11 16 19:51 n11774513_22.JPEG
+-rwxrwxrwx  1 radiohead  staff   44026 11 16 19:52 n11778257_138.JPEG
+-rwxrwxrwx  1 radiohead  staff   68243 11 16 19:51 n11784126_75.JPEG
+-rwxrwxrwx  1 radiohead  staff   45493 11 16 19:52 n11793779_167.JPEG
+-rwxrwxrwx  1 radiohead  staff  126559 11 16 19:52 n11808299_148.JPEG
+-rwxrwxrwx  1 radiohead  staff  113027 11 16 19:51 n11808468_92.JPEG
+-rwxrwxrwx  1 radiohead  staff   57520 11 16 19:51 n11810358_76.JPEG
+-rwxrwxrwx  1 radiohead  staff  196238 11 16 19:52 n11821184_89.JPEG
+-rwxrwxrwx  1 radiohead  staff   64417 11 16 19:52 n11826198_65.JPEG
+-rwxrwxrwx  1 radiohead  staff   25782 11 16 19:51 n11839823_395.JPEG
+-rwxrwxrwx  1 radiohead  staff   74034 11 16 19:52 n11866248_72.JPEG
+-rwxrwxrwx  1 radiohead  staff   46072 11 16 19:52 n11889619_15.JPEG
+-rwxrwxrwx  1 radiohead  staff   82361 11 16 19:52 n11892181_800.JPEG
+-rwxrwxrwx  1 radiohead  staff  126295 11 16 19:52 n11892817_140.JPEG
+-rwxrwxrwx  1 radiohead  staff   50256 11 16 19:52 n11901294_28.JPEG
+-rwxrwxrwx  1 radiohead  staff  121403 11 16 19:51 n11916696_166.JPEG
+-rwxrwxrwx  1 radiohead  staff   52671 11 16 19:51 n11924445_189.JPEG
+-rwxrwxrwx  1 radiohead  staff  143135 11 16 19:52 n11931918_121.JPEG
+-rwxrwxrwx  1 radiohead  staff   54219 11 16 19:53 n11939699_8.JPEG
+-rwxrwxrwx  1 radiohead  staff  116418 11 16 19:52 n11943660_64.JPEG
+-rwxrwxrwx  1 radiohead  staff   64581 11 16 19:52 n11947802_255.JPEG
+-rwxrwxrwx  1 radiohead  staff  226594 11 16 19:51 n11949402_173.JPEG
+-rwxrwxrwx  1 radiohead  staff   61697 11 16 19:51 n11954345_22.JPEG
+-rwxrwxrwx  1 radiohead  staff  154398 11 16 19:51 n11957317_326.JPEG
+-rwxrwxrwx  1 radiohead  staff  105024 11 16 19:51 n11958080_69.JPEG
+-rwxrwxrwx  1 radiohead  staff  126876 11 16 19:51 n11960245_75.JPEG
+-rwxrwxrwx  1 radiohead  staff  132742 11 16 19:52 n11961100_1983.JPEG
+-rwxrwxrwx  1 radiohead  staff   85646 11 16 19:51 n11971927_79.JPEG
+-rwxrwxrwx  1 radiohead  staff  150843 11 16 19:51 n11978713_129.JPEG
+-rwxrwxrwx  1 radiohead  staff   72231 11 16 19:51 n11980318_159.JPEG
+-rwxrwxrwx  1 radiohead  staff   72368 11 16 19:52 n11989393_223.JPEG
+-rwxrwxrwx  1 radiohead  staff  144036 11 16 19:51 n11989869_164.JPEG
+-rwxrwxrwx  1 radiohead  staff   92818 11 16 19:52 n12016567_33.JPEG
+-rwxrwxrwx  1 radiohead  staff  116167 11 16 19:52 n12023726_118.JPEG
+-rwxrwxrwx  1 radiohead  staff  124442 11 16 19:52 n12024445_256.JPEG
+-rwxrwxrwx  1 radiohead  staff   92481 11 16 19:51 n12029635_33.JPEG
+-rwxrwxrwx  1 radiohead  staff  109077 11 16 19:52 n12034141_706.JPEG
+-rwxrwxrwx  1 radiohead  staff  144077 11 16 19:51 n12041446_224.JPEG
+-rwxrwxrwx  1 radiohead  staff  143425 11 16 19:52 n12050533_380.JPEG
+-rwxrwxrwx  1 radiohead  staff   81175 11 16 19:52 n12056758_70.JPEG
+-rwxrwxrwx  1 radiohead  staff   39546 11 16 19:51 n12082131_265.JPEG
+-rwxrwxrwx  1 radiohead  staff   35775 11 16 19:52 n12091953_32.JPEG
+-rwxrwxrwx  1 radiohead  staff   56406 11 16 19:52 n12093329_227.JPEG
+-rwxrwxrwx  1 radiohead  staff   77664 11 16 19:52 n12099342_116.JPEG
+-rwxrwxrwx  1 radiohead  staff   82447 11 16 19:52 n12168565_384.JPEG
+-rwxrwxrwx  1 radiohead  staff  173099 11 16 19:52 n12171316_218.JPEG
+-rwxrwxrwx  1 radiohead  staff   88813 11 16 19:51 n12173664_60.JPEG
+-rwxrwxrwx  1 radiohead  staff   94008 11 16 19:52 n12178896_276.JPEG
+-rwxrwxrwx  1 radiohead  staff   69717 11 16 19:51 n12235051_32.JPEG
+-rwxrwxrwx  1 radiohead  staff  112485 11 16 19:52 n12237641_17.JPEG
+-rwxrwxrwx  1 radiohead  staff   72222 11 16 19:53 n12243109_235.JPEG
+-rwxrwxrwx  1 radiohead  staff  205101 11 16 19:52 n12244650_127.JPEG
+-rwxrwxrwx  1 radiohead  staff  116036 11 16 19:52 n12245319_13.JPEG
+-rwxrwxrwx  1 radiohead  staff  134328 11 16 19:52 n12256920_12.JPEG
+-rwxrwxrwx  1 radiohead  staff   80524 11 16 19:51 n12291959_354.JPEG
+-rwxrwxrwx  1 radiohead  staff   24502 11 16 19:51 n12294124_133.JPEG
+-rwxrwxrwx  1 radiohead  staff  148641 11 16 19:52 n12303083_4.JPEG
+-rwxrwxrwx  1 radiohead  staff   76977 11 16 19:52 n12307076_48.JPEG
+-rwxrwxrwx  1 radiohead  staff  105164 11 16 19:53 n12311579_82.JPEG
+-rwxrwxrwx  1 radiohead  staff   38532 11 16 19:52 n12315060_36.JPEG
+-rwxrwxrwx  1 radiohead  staff   28954 11 16 19:51 n12330587_237.JPEG
+-rwxrwxrwx  1 radiohead  staff   63191 11 16 19:52 n12343480_63.JPEG
+-rwxrwxrwx  1 radiohead  staff   74555 11 16 19:51 n12347158_4.JPEG
+-rwxrwxrwx  1 radiohead  staff   42231 11 16 19:51 n12357485_88.JPEG
+-rwxrwxrwx  1 radiohead  staff  152347 11 16 19:52 n12360108_18.JPEG
+-rwxrwxrwx  1 radiohead  staff   89872 11 16 19:52 n12389501_112.JPEG
+-rwxrwxrwx  1 radiohead  staff  108055 11 16 19:51 n12413880_193.JPEG
+-rwxrwxrwx  1 radiohead  staff   71927 11 16 19:51 n12416703_124.JPEG
+-rwxrwxrwx  1 radiohead  staff   80447 11 16 19:52 n12421137_52.JPEG
+-rwxrwxrwx  1 radiohead  staff   71402 11 16 19:52 n12421683_96.JPEG
+-rwxrwxrwx  1 radiohead  staff   85030 11 16 19:52 n12422129_28.JPEG
+-rwxrwxrwx  1 radiohead  staff  125546 11 16 19:51 n12426623_194.JPEG
+-rwxrwxrwx  1 radiohead  staff   87286 11 16 19:51 n12435965_23.JPEG
+-rwxrwxrwx  1 radiohead  staff   71250 11 16 19:52 n12452836_164.JPEG
+-rwxrwxrwx  1 radiohead  staff   79531 11 16 19:52 n12454159_16.JPEG
+-rwxrwxrwx  1 radiohead  staff   76866 11 16 19:52 n12458550_10.JPEG
+-rwxrwxrwx  1 radiohead  staff  132494 11 16 19:52 n12459629_11.JPEG
+-rwxrwxrwx  1 radiohead  staff   89356 11 16 19:52 n12468545_59.JPEG
+-rwxrwxrwx  1 radiohead  staff   77354 11 16 19:52 n12475035_367.JPEG
+-rwxrwxrwx  1 radiohead  staff  130059 11 16 19:52 n12483427_524.JPEG
+-rwxrwxrwx  1 radiohead  staff   56001 11 16 19:52 n12486574_43.JPEG
+-rwxrwxrwx  1 radiohead  staff   39709 11 16 19:51 n12489815_27.JPEG
+-rwxrwxrwx  1 radiohead  staff   32403 11 16 19:51 n12538209_377.JPEG
+-rwxrwxrwx  1 radiohead  staff  144765 11 16 19:51 n12540250_4069.JPEG
+-rwxrwxrwx  1 radiohead  staff   23363 11 16 19:51 n12546962_90.JPEG
+-rwxrwxrwx  1 radiohead  staff  144855 11 16 19:51 n12567950_1127.JPEG
+-rwxrwxrwx  1 radiohead  staff  113298 11 16 19:52 n12574866_107.JPEG
+-rwxrwxrwx  1 radiohead  staff  227066 11 16 19:52 n12580654_1.JPEG
+-rwxrwxrwx  1 radiohead  staff  101189 11 16 19:52 n12606545_23.JPEG
+-rwxrwxrwx  1 radiohead  staff  112227 11 16 19:52 n12620196_815.JPEG
+-rwxrwxrwx  1 radiohead  staff   82065 11 16 19:51 n12621619_2269.JPEG
+-rwxrwxrwx  1 radiohead  staff   45566 11 16 19:52 n12622875_20.JPEG
+-rwxrwxrwx  1 radiohead  staff   55269 11 16 19:52 n12624568_109.JPEG
+-rwxrwxrwx  1 radiohead  staff  116838 11 16 19:51 n12627119_522.JPEG
+-rwxrwxrwx  1 radiohead  staff   76245 11 16 19:52 n12640839_92.JPEG
+-rwxrwxrwx  1 radiohead  staff  120615 11 16 19:52 n12646605_8547.JPEG
+-rwxrwxrwx  1 radiohead  staff  133803 11 16 19:51 n12646740_348.JPEG
+-rwxrwxrwx  1 radiohead  staff   84711 11 16 19:51 n12648693_1.JPEG
+-rwxrwxrwx  1 radiohead  staff  113049 11 16 19:52 n12665271_77.JPEG
+-rwxrwxrwx  1 radiohead  staff   82797 11 16 19:51 n12666965_48.JPEG
+-rwxrwxrwx  1 radiohead  staff   86470 11 16 19:52 n12676534_83.JPEG
+-rwxrwxrwx  1 radiohead  staff   35383 11 16 19:52 n12683571_134.JPEG
+-rwxrwxrwx  1 radiohead  staff   76364 11 16 19:52 n12687957_238.JPEG
+-rwxrwxrwx  1 radiohead  staff  143694 11 16 19:52 n12719944_113.JPEG
+-rwxrwxrwx  1 radiohead  staff  152830 11 16 19:52 n12788854_17.JPEG
+-rwxrwxrwx  1 radiohead  staff  138771 11 16 19:51 n12794135_37.JPEG
+-rwxrwxrwx  1 radiohead  staff   33705 11 16 19:52 n12810007_67.JPEG
+-rwxrwxrwx  1 radiohead  staff  127584 11 16 19:52 n12811027_640.JPEG
+-rwxrwxrwx  1 radiohead  staff   91929 11 16 19:52 n12812478_134.JPEG
+-rwxrwxrwx  1 radiohead  staff   59663 11 16 19:52 n12813189_428.JPEG
+-rwxrwxrwx  1 radiohead  staff  161562 11 16 19:51 n12822115_25.JPEG
+-rwxrwxrwx  1 radiohead  staff  158777 11 16 19:52 n12824053_69.JPEG
+-rwxrwxrwx  1 radiohead  staff   48782 11 16 19:52 n12828977_20.JPEG
+-rwxrwxrwx  1 radiohead  staff   90862 11 16 19:51 n12832315_168.JPEG
+-rwxrwxrwx  1 radiohead  staff  177883 11 16 19:51 n12833149_34.JPEG
+-rwxrwxrwx  1 radiohead  staff  113513 11 16 19:52 n12849952_71.JPEG
+-rwxrwxrwx  1 radiohead  staff   39363 11 16 19:51 n12851469_580.JPEG
+-rwxrwxrwx  1 radiohead  staff   63904 11 16 19:51 n12865824_29.JPEG
+-rwxrwxrwx  1 radiohead  staff   36185 11 16 19:52 n12869061_43.JPEG
+-rwxrwxrwx  1 radiohead  staff   18462 11 16 19:52 n12870682_182.JPEG
+-rwxrwxrwx  1 radiohead  staff   86526 11 16 19:52 n12877244_1089.JPEG
+-rwxrwxrwx  1 radiohead  staff  170880 11 16 19:52 n12882945_99.JPEG
+-rwxrwxrwx  1 radiohead  staff   56875 11 16 19:52 n12893463_5.JPEG
+-rwxrwxrwx  1 radiohead  staff   54363 11 16 19:51 n12909917_249.JPEG
+-rwxrwxrwx  1 radiohead  staff   59722 11 16 19:51 n12914923_116.JPEG
+-rwxrwxrwx  1 radiohead  staff  123045 11 16 19:51 n12920204_680.JPEG
+-rwxrwxrwx  1 radiohead  staff   71525 11 16 19:51 n12929600_1558.JPEG
+-rwxrwxrwx  1 radiohead  staff   90033 11 16 19:52 n12937130_93.JPEG
+-rwxrwxrwx  1 radiohead  staff  101323 11 16 19:51 n12938193_114.JPEG
+-rwxrwxrwx  1 radiohead  staff   48204 11 16 19:51 n12939282_108.JPEG
+-rwxrwxrwx  1 radiohead  staff  184308 11 16 19:51 n12950314_42.JPEG
+-rwxrwxrwx  1 radiohead  staff  104982 11 16 19:52 n12951146_176.JPEG
+-rwxrwxrwx  1 radiohead  staff   43344 11 16 19:52 n13235503_30.JPEG
+-rwxrwxrwx  1 radiohead  staff   65606 11 16 19:52 n13239177_253.JPEG
+drwxrwxrwx  1 radiohead  staff     264  7 21 21:08 zh-Hans.lproj
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/Base.lproj:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 LaunchScreen.storyboardc
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 Main.storyboardc
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/Base.lproj/LaunchScreen.storyboardc:
+total 24
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 ..
+-rwxrwxrwx  1 radiohead  staff  1792 11 16 19:53 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rwxrwxrwx  1 radiohead  staff   258 11 16 19:53 Info.plist
+-rwxrwxrwx  1 radiohead  staff   832 11 16 19:53 UIViewController-01J-lp-oVM.nib
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/Base.lproj/Main.storyboardc:
+total 56
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:53 ..
+-rwxrwxrwx  1 radiohead  staff  2680 11 16 19:53 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rwxrwxrwx  1 radiohead  staff   313 11 16 19:53 Info.plist
+-rwxrwxrwx  1 radiohead  staff  2180 11 16 19:53 UINavigationController-wqc-pw-r1P.nib
+-rwxrwxrwx  1 radiohead  staff  9186 11 16 19:53 mdu-8n-pUQ-view-QaY-GN-Mnd.nib
+-rwxrwxrwx  1 radiohead  staff  1059 11 16 19:53 secondView.nib
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/Frameworks:
+total 0
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:17 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+drwxrwxrwx  1 radiohead  staff   264 11 16 21:16 ALCameraViewController.framework
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/Frameworks/ALCameraViewController.framework:
+total 296
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:16 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 21:17 ..
+-rwxrwxrwx  1 radiohead  staff     376 11 16 21:14 ALCameraView.strings
+-rwxrwxrwx  1 radiohead  staff    5880 11 16 21:16 ALConfirmViewController.nib
+-rwxrwxrwx  1 radiohead  staff  133333 11 16 21:16 Assets.car
+-rwxrwxrwx  1 radiohead  staff     824 11 16 21:16 Info.plist
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/TencentOpenApi_IOS_Bundle.bundle:
+total 40
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+-rwxrwxrwx  1 radiohead  staff  2427  7 21 21:08 error.png
+-rwxrwxrwx  1 radiohead  staff     0  7 21 21:08 ios_open_sdk_2.9.3.2_iphone
+-rwxrwxrwx  1 radiohead  staff  4555  7 21 21:08 local.html
+-rwxrwxrwx  1 radiohead  staff  2704  7 21 21:08 qqicon.png
+-rwxrwxrwx  1 radiohead  staff  2610  7 21 21:08 success.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle:
+total 0
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+drwxrwxrwx  1 radiohead  staff  2200  7 21 21:08 Buttons
+drwxrwxrwx  1 radiohead  staff   296  7 21 21:08 EGO
+drwxrwxrwx  1 radiohead  staff   398  7 21 21:08 OtherTheme
+drwxrwxrwx  1 radiohead  staff  3118  7 21 21:08 SnsPlatform
+drwxrwxrwx  1 radiohead  staff   568  7 21 21:08 SocialSDKBar
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 Sound
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/Buttons:
+total 512
+drwxrwxrwx  1 radiohead  staff  2200  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff  3347  7 21 21:08 UMS_Check.png
+-rwxrwxrwx  1 radiohead  staff   671  7 21 21:08 UMS_Check@2x.png
+-rwxrwxrwx  1 radiohead  staff   704  7 21 21:08 UMS_No_Location.png
+-rwxrwxrwx  1 radiohead  staff  2042  7 21 21:08 UMS_No_Location@2x.png
+-rwxrwxrwx  1 radiohead  staff   575  7 21 21:08 UMS_User-Avatar-Placeholder@2x.png
+-rwxrwxrwx  1 radiohead  staff  2438  7 21 21:08 UMS_User_profile_default@2x.png
+-rwxrwxrwx  1 radiohead  staff   197  7 21 21:08 UMS_account_login@2x.png
+-rwxrwxrwx  1 radiohead  staff  2950  7 21 21:08 UMS_add_friend_off.png
+-rwxrwxrwx  1 radiohead  staff   134  7 21 21:08 UMS_add_friend_off@2x.png
+-rwxrwxrwx  1 radiohead  staff  3211  7 21 21:08 UMS_add_friend_on.png
+-rwxrwxrwx  1 radiohead  staff   403  7 21 21:08 UMS_add_friend_on@2x.png
+-rwxrwxrwx  1 radiohead  staff  3003  7 21 21:08 UMS_comment_input@2x.png
+-rwxrwxrwx  1 radiohead  staff   250  7 21 21:08 UMS_comment_view_cell.png
+-rwxrwxrwx  1 radiohead  staff  2806  7 21 21:08 UMS_comment_view_cell_white@2x.png
+-rwxrwxrwx  1 radiohead  staff  3334  7 21 21:08 UMS_delete_image_button_normal.png
+-rwxrwxrwx  1 radiohead  staff   713  7 21 21:08 UMS_delete_image_button_normal@2x.png
+-rwxrwxrwx  1 radiohead  staff  3445  7 21 21:08 UMS_find@2x.png
+-rwxrwxrwx  1 radiohead  staff  1108  7 21 21:08 UMS_follow_off@2x.png
+-rwxrwxrwx  1 radiohead  staff  1111  7 21 21:08 UMS_follow_on@2x.png
+-rwxrwxrwx  1 radiohead  staff  2800  7 21 21:08 UMS_nav_bar_bg_white@2x.png
+-rwxrwxrwx  1 radiohead  staff  3239  7 21 21:08 UMS_nav_button_back.png
+-rwxrwxrwx  1 radiohead  staff  3307  7 21 21:08 UMS_nav_button_back@2x.png
+-rwxrwxrwx  1 radiohead  staff  3894  7 21 21:08 UMS_nav_button_close.png
+-rwxrwxrwx  1 radiohead  staff  3266  7 21 21:08 UMS_nav_button_close@2x.png
+-rwxrwxrwx  1 radiohead  staff  3261  7 21 21:08 UMS_nav_button_refresh.png
+-rwxrwxrwx  1 radiohead  staff  3614  7 21 21:08 UMS_nav_button_refresh@2x.png
+-rwxrwxrwx  1 radiohead  staff  1272  7 21 21:08 UMS_nav_button_send.png
+-rwxrwxrwx  1 radiohead  staff  1624  7 21 21:08 UMS_nav_button_send@2x.png
+-rwxrwxrwx  1 radiohead  staff  3296  7 21 21:08 UMS_oauth_off.png
+-rwxrwxrwx  1 radiohead  staff   689  7 21 21:08 UMS_oauth_off@2x.png
+-rwxrwxrwx  1 radiohead  staff  3366  7 21 21:08 UMS_oauth_on.png
+-rwxrwxrwx  1 radiohead  staff   839  7 21 21:08 UMS_oauth_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   930  7 21 21:08 UMS_place_map.png
+-rwxrwxrwx  1 radiohead  staff  2382  7 21 21:08 UMS_place_map@2x.png
+-rwxrwxrwx  1 radiohead  staff  3320  7 21 21:08 UMS_place_off.png
+-rwxrwxrwx  1 radiohead  staff   774  7 21 21:08 UMS_place_off@2x.png
+-rwxrwxrwx  1 radiohead  staff  3322  7 21 21:08 UMS_place_tap.png
+-rwxrwxrwx  1 radiohead  staff   775  7 21 21:08 UMS_place_tap@2x.png
+-rwxrwxrwx  1 radiohead  staff  1281  7 21 21:08 UMS_shake__share_button@2x.png
+-rwxrwxrwx  1 radiohead  staff  3052  7 21 21:08 UMS_shake_close.png
+-rwxrwxrwx  1 radiohead  staff  1314  7 21 21:08 UMS_shake_close@2x.png
+-rwxrwxrwx  1 radiohead  staff  3053  7 21 21:08 UMS_shake_close_tap.png
+-rwxrwxrwx  1 radiohead  staff  1364  7 21 21:08 UMS_shake_close_tap@2x.png
+-rwxrwxrwx  1 radiohead  staff  3373  7 21 21:08 UMS_share_change_account.png
+-rwxrwxrwx  1 radiohead  staff   846  7 21 21:08 UMS_share_change_account@2x.png
+-rwxrwxrwx  1 radiohead  staff  1068  7 21 21:08 UMS_share_change_account_bg@2x.png
+-rwxrwxrwx  1 radiohead  staff  3374  7 21 21:08 UMS_share_change_account_tap.png
+-rwxrwxrwx  1 radiohead  staff   858  7 21 21:08 UMS_share_change_account_tap@2x.png
+-rwxrwxrwx  1 radiohead  staff   972  7 21 21:08 UMS_share_change_to_account@2x.png
+-rwxrwxrwx  1 radiohead  staff   971  7 21 21:08 UMS_share_change_to_account_tap@2x.png
+-rwxrwxrwx  1 radiohead  staff  3288  7 21 21:08 UMS_share_oauth@2x.png
+-rwxrwxrwx  1 radiohead  staff  3494  7 21 21:08 UMS_umeng_share_at.png
+-rwxrwxrwx  1 radiohead  staff   886  7 21 21:08 UMS_umeng_share_at@2x.png
+-rwxrwxrwx  1 radiohead  staff  3509  7 21 21:08 UMS_umeng_share_atSel.png
+-rwxrwxrwx  1 radiohead  staff   888  7 21 21:08 UMS_umeng_share_atSel@2x.png
+-rwxrwxrwx  1 radiohead  staff  3509  7 21 21:08 UMS_umeng_share_at_tap.png
+-rwxrwxrwx  1 radiohead  staff   178  7 21 21:08 UMS_umeng_share_toolbarBg.png
+-rwxrwxrwx  1 radiohead  staff   202  7 21 21:08 UMS_umeng_share_toolbarBg@2x.png
+-rwxrwxrwx  1 radiohead  staff  1562  7 21 21:08 UMS_url_image.png
+-rwxrwxrwx  1 radiohead  staff  1562  7 21 21:08 UMS_url_image@2x.png
+-rwxrwxrwx  1 radiohead  staff  1771  7 21 21:08 UMS_url_music.png
+-rwxrwxrwx  1 radiohead  staff  1771  7 21 21:08 UMS_url_music@2x.png
+-rwxrwxrwx  1 radiohead  staff  2062  7 21 21:08 UMS_url_video.png
+-rwxrwxrwx  1 radiohead  staff  2062  7 21 21:08 UMS_url_video@2x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/EGO:
+total 88
+drwxrwxrwx  1 radiohead  staff   296  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff  4316  7 21 21:08 blackArrow.png
+-rwxrwxrwx  1 radiohead  staff  1616  7 21 21:08 blackArrow@2x.png
+-rwxrwxrwx  1 radiohead  staff  4492  7 21 21:08 blueArrow.png
+-rwxrwxrwx  1 radiohead  staff  1529  7 21 21:08 blueArrow@2x.png
+-rwxrwxrwx  1 radiohead  staff  1914  7 21 21:08 grayArrow.png
+-rwxrwxrwx  1 radiohead  staff  2109  7 21 21:08 grayArrow@2x.png
+-rwxrwxrwx  1 radiohead  staff  4180  7 21 21:08 whiteArrow.png
+-rwxrwxrwx  1 radiohead  staff  1569  7 21 21:08 whiteArrow@2x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/OtherTheme:
+total 88
+drwxrwxrwx  1 radiohead  staff   398  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff  3287  7 21 21:08 UMS_actionsheet_panel@2x.png
+-rwxrwxrwx  1 radiohead  staff  1088  7 21 21:08 UMS_nav_back_button_normal.png
+-rwxrwxrwx  1 radiohead  staff  2333  7 21 21:08 UMS_nav_back_button_normal@2x.png
+-rwxrwxrwx  1 radiohead  staff  1188  7 21 21:08 UMS_nav_back_button_tap.png
+-rwxrwxrwx  1 radiohead  staff  2411  7 21 21:08 UMS_nav_back_button_tap@2x.png
+-rwxrwxrwx  1 radiohead  staff  2799  7 21 21:08 UMS_nav_bar_bg_black.png
+-rwxrwxrwx  1 radiohead  staff  2800  7 21 21:08 UMS_nav_bar_bg_black@2x.png
+-rwxrwxrwx  1 radiohead  staff   772  7 21 21:08 UMS_nav_button_normal.png
+-rwxrwxrwx  1 radiohead  staff  1244  7 21 21:08 UMS_nav_button_normal@2x.png
+-rwxrwxrwx  1 radiohead  staff   878  7 21 21:08 UMS_nav_button_tap.png
+-rwxrwxrwx  1 radiohead  staff  1313  7 21 21:08 UMS_nav_button_tap@2x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/SnsPlatform:
+total 1048
+drwxrwxrwx  1 radiohead  staff   3118  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff    264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff   3849  7 21 21:08 UMS_alipay_icon.png
+-rwxrwxrwx  1 radiohead  staff   4448  7 21 21:08 UMS_alipay_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3849  7 21 21:08 UMS_alipay_off.png
+-rwxrwxrwx  1 radiohead  staff   4448  7 21 21:08 UMS_alipay_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   4144  7 21 21:08 UMS_alipay_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3849  7 21 21:08 UMS_alipay_session_icon.png
+-rwxrwxrwx  1 radiohead  staff   4448  7 21 21:08 UMS_alipay_session_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3343  7 21 21:08 UMS_douban_icon.png
+-rwxrwxrwx  1 radiohead  staff  15807  7 21 21:08 UMS_douban_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3198  7 21 21:08 UMS_douban_off.png
+-rwxrwxrwx  1 radiohead  staff   1377  7 21 21:08 UMS_douban_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3251  7 21 21:08 UMS_douban_on.png
+-rwxrwxrwx  1 radiohead  staff    388  7 21 21:08 UMS_douban_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   1364  7 21 21:08 UMS_email_icon.png
+-rwxrwxrwx  1 radiohead  staff   1672  7 21 21:08 UMS_email_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3629  7 21 21:08 UMS_email_off.png
+-rwxrwxrwx  1 radiohead  staff   1678  7 21 21:08 UMS_email_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   1364  7 21 21:08 UMS_email_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3218  7 21 21:08 UMS_facebook_icon.png
+-rwxrwxrwx  1 radiohead  staff  15671  7 21 21:08 UMS_facebook_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3070  7 21 21:08 UMS_facebook_off.png
+-rwxrwxrwx  1 radiohead  staff   1251  7 21 21:08 UMS_facebook_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3140  7 21 21:08 UMS_facebook_on.png
+-rwxrwxrwx  1 radiohead  staff    322  7 21 21:08 UMS_facebook_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   1462  7 21 21:08 UMS_flickr_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff    658  7 21 21:08 UMS_instagram.png
+-rwxrwxrwx  1 radiohead  staff    846  7 21 21:08 UMS_instagram@2x.png
+-rwxrwxrwx  1 radiohead  staff   2155  7 21 21:08 UMS_laiwang_session@2x.png
+-rwxrwxrwx  1 radiohead  staff   1643  7 21 21:08 UMS_laiwang_timeline@2x.png
+-rwxrwxrwx  1 radiohead  staff   2081  7 21 21:08 UMS_line_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   2578  7 21 21:08 UMS_pinterest_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   1339  7 21 21:08 UMS_qq_icon.png
+-rwxrwxrwx  1 radiohead  staff   1579  7 21 21:08 UMS_qq_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3228  7 21 21:08 UMS_qq_off.png
+-rwxrwxrwx  1 radiohead  staff   3803  7 21 21:08 UMS_qq_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   1206  7 21 21:08 UMS_qq_on.png
+-rwxrwxrwx  1 radiohead  staff   1369  7 21 21:08 UMS_qq_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3789  7 21 21:08 UMS_qzone_icon.png
+-rwxrwxrwx  1 radiohead  staff  16507  7 21 21:08 UMS_qzone_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3593  7 21 21:08 UMS_qzone_off.png
+-rwxrwxrwx  1 radiohead  staff   2071  7 21 21:08 UMS_qzone_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3414  7 21 21:08 UMS_qzone_on.png
+-rwxrwxrwx  1 radiohead  staff    806  7 21 21:08 UMS_qzone_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3793  7 21 21:08 UMS_renren_icon.png
+-rwxrwxrwx  1 radiohead  staff  16603  7 21 21:08 UMS_renren_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3616  7 21 21:08 UMS_renren_off.png
+-rwxrwxrwx  1 radiohead  staff   2171  7 21 21:08 UMS_renren_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3367  7 21 21:08 UMS_renren_on.png
+-rwxrwxrwx  1 radiohead  staff    764  7 21 21:08 UMS_renren_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3951  7 21 21:08 UMS_sina_icon.png
+-rwxrwxrwx  1 radiohead  staff  16514  7 21 21:08 UMS_sina_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3818  7 21 21:08 UMS_sina_off.png
+-rwxrwxrwx  1 radiohead  staff   1990  7 21 21:08 UMS_sina_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3606  7 21 21:08 UMS_sina_on.png
+-rwxrwxrwx  1 radiohead  staff   1516  7 21 21:08 UMS_sina_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   1418  7 21 21:08 UMS_sms_icon.png
+-rwxrwxrwx  1 radiohead  staff   1763  7 21 21:08 UMS_sms_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3242  7 21 21:08 UMS_sms_off.png
+-rwxrwxrwx  1 radiohead  staff   1797  7 21 21:08 UMS_sms_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   1763  7 21 21:08 UMS_sms_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3625  7 21 21:08 UMS_tencent_icon.png
+-rwxrwxrwx  1 radiohead  staff  16339  7 21 21:08 UMS_tencent_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3415  7 21 21:08 UMS_tencent_off.png
+-rwxrwxrwx  1 radiohead  staff   1910  7 21 21:08 UMS_tencent_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3378  7 21 21:08 UMS_tencent_on.png
+-rwxrwxrwx  1 radiohead  staff    738  7 21 21:08 UMS_tencent_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   1486  7 21 21:08 UMS_tumblr_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3533  7 21 21:08 UMS_twitter_icon.png
+-rwxrwxrwx  1 radiohead  staff  16443  7 21 21:08 UMS_twitter_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3340  7 21 21:08 UMS_twitter_off.png
+-rwxrwxrwx  1 radiohead  staff   2072  7 21 21:08 UMS_twitter_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3260  7 21 21:08 UMS_twitter_on.png
+-rwxrwxrwx  1 radiohead  staff    709  7 21 21:08 UMS_twitter_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   1530  7 21 21:08 UMS_wechat_favorite_icon.png
+-rwxrwxrwx  1 radiohead  staff   2118  7 21 21:08 UMS_wechat_favorite_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3957  7 21 21:08 UMS_wechat_icon.png
+-rwxrwxrwx  1 radiohead  staff  16524  7 21 21:08 UMS_wechat_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3835  7 21 21:08 UMS_wechat_off.png
+-rwxrwxrwx  1 radiohead  staff   2131  7 21 21:08 UMS_wechat_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   1283  7 21 21:08 UMS_wechat_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   3957  7 21 21:08 UMS_wechat_session_icon.png
+-rwxrwxrwx  1 radiohead  staff  16524  7 21 21:08 UMS_wechat_session_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3641  7 21 21:08 UMS_wechat_timeline_icon.png
+-rwxrwxrwx  1 radiohead  staff  16340  7 21 21:08 UMS_wechat_timeline_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   3470  7 21 21:08 UMS_wechat_timeline_off.png
+-rwxrwxrwx  1 radiohead  staff   1988  7 21 21:08 UMS_wechat_timeline_off@2x.png
+-rwxrwxrwx  1 radiohead  staff   3336  7 21 21:08 UMS_wechat_timeline_on.png
+-rwxrwxrwx  1 radiohead  staff    761  7 21 21:08 UMS_wechat_timeline_on@2x.png
+-rwxrwxrwx  1 radiohead  staff   2640  7 21 21:08 UMS_whatsapp_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   2188  7 21 21:08 UMS_yixin_session@2x.png
+-rwxrwxrwx  1 radiohead  staff   2073  7 21 21:08 UMS_yixin_timeline@2x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/SocialSDKBar:
+total 576
+drwxrwxrwx  1 radiohead  staff    568  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff    264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff   3202  7 21 21:08 UMS_account_normal_white.png
+-rwxrwxrwx  1 radiohead  staff  29629  7 21 21:08 UMS_account_normal_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3202  7 21 21:08 UMS_account_tap_white.png
+-rwxrwxrwx  1 radiohead  staff  29630  7 21 21:08 UMS_account_tap_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3214  7 21 21:08 UMS_comment_normal_white.png
+-rwxrwxrwx  1 radiohead  staff  29599  7 21 21:08 UMS_comment_normal_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3214  7 21 21:08 UMS_comment_tap_white.png
+-rwxrwxrwx  1 radiohead  staff  29589  7 21 21:08 UMS_comment_tap_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3196  7 21 21:08 UMS_like_off_white.png
+-rwxrwxrwx  1 radiohead  staff  29680  7 21 21:08 UMS_like_off_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3196  7 21 21:08 UMS_like_on_white.png
+-rwxrwxrwx  1 radiohead  staff  29680  7 21 21:08 UMS_like_on_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3305  7 21 21:08 UMS_share_normal_white.png
+-rwxrwxrwx  1 radiohead  staff  29759  7 21 21:08 UMS_share_normal_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   3305  7 21 21:08 UMS_share_tap_white.png
+-rwxrwxrwx  1 radiohead  staff  29759  7 21 21:08 UMS_share_tap_white@2x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/UMSocialSDKResourcesNew.bundle/Sound:
+total 24
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff  9792  7 21 21:08 shake_sound.mp3
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/WeiboSDK.bundle:
+total 0
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+drwxrwxrwx  1 radiohead  staff  1350  7 21 21:08 images
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 others
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/WeiboSDK.bundle/images:
+total 328
+drwxrwxrwx  1 radiohead  staff  1350  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff   342  7 21 21:08 alert_error_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff   419  7 21 21:08 alert_success_icon@2x.png
+-rwxrwxrwx  1 radiohead  staff  1644  7 21 21:08 close.png
+-rwxrwxrwx  1 radiohead  staff  5320  7 21 21:08 close@2x.png
+-rwxrwxrwx  1 radiohead  staff   351  7 21 21:08 common_button_big_blue@2x.png
+-rwxrwxrwx  1 radiohead  staff   396  7 21 21:08 common_button_big_blue_disable@2x.png
+-rwxrwxrwx  1 radiohead  staff   395  7 21 21:08 common_button_big_blue_highlighted@2x.png
+-rwxrwxrwx  1 radiohead  staff   400  7 21 21:08 common_button_white.png
+-rwxrwxrwx  1 radiohead  staff   367  7 21 21:08 common_button_white@2x.png
+-rwxrwxrwx  1 radiohead  staff   409  7 21 21:08 common_button_white_highlighted.png
+-rwxrwxrwx  1 radiohead  staff   378  7 21 21:08 common_button_white_highlighted@2x.png
+-rwxrwxrwx  1 radiohead  staff   193  7 21 21:08 common_icon_arrow@2x.png
+-rwxrwxrwx  1 radiohead  staff   473  7 21 21:08 compose_keyboardbutton_background.png
+-rwxrwxrwx  1 radiohead  staff  1205  7 21 21:08 compose_keyboardbutton_background@2x.png
+-rwxrwxrwx  1 radiohead  staff   284  7 21 21:08 compose_toolbar_background.png
+-rwxrwxrwx  1 radiohead  staff   943  7 21 21:08 compose_toolbar_background@2x.png
+-rwxrwxrwx  1 radiohead  staff  2933  7 21 21:08 empty_failed.png
+-rwxrwxrwx  1 radiohead  staff  4136  7 21 21:08 empty_failed@2x.png
+-rwxrwxrwx  1 radiohead  staff   232  7 21 21:08 login_background@2x.png
+-rwxrwxrwx  1 radiohead  staff   114  7 21 21:08 login_country_background@2x.png
+-rwxrwxrwx  1 radiohead  staff   114  7 21 21:08 login_country_background_highlighted@2x.png
+-rwxrwxrwx  1 radiohead  staff   290  7 21 21:08 navigationbar_background.png
+-rwxrwxrwx  1 radiohead  staff   142  7 21 21:08 navigationbar_background@2x.png
+-rwxrwxrwx  1 radiohead  staff   285  7 21 21:08 navigationbar_background_os7.png
+-rwxrwxrwx  1 radiohead  staff   138  7 21 21:08 navigationbar_background_os7@2x.png
+-rwxrwxrwx  1 radiohead  staff   188  7 21 21:08 progresshud_background@2x.png
+-rwxrwxrwx  1 radiohead  staff  1240  7 21 21:08 sdk_weibo_logo.png
+-rwxrwxrwx  1 radiohead  staff  2658  7 21 21:08 sdk_weibo_logo@2x.png
+-rwxrwxrwx  1 radiohead  staff  2942  7 21 21:08 sdk_weibo_logo@3x.png
+-rwxrwxrwx  1 radiohead  staff   362  7 21 21:08 timeline_relationship_icon_addattention.png
+-rwxrwxrwx  1 radiohead  staff  1094  7 21 21:08 timeline_relationship_icon_addattention@2x.png
+-rwxrwxrwx  1 radiohead  staff   181  7 21 21:08 timeline_relationship_icon_addattention@3x.png
+-rwxrwxrwx  1 radiohead  staff   413  7 21 21:08 timeline_relationship_icon_attention.png
+-rwxrwxrwx  1 radiohead  staff  1317  7 21 21:08 timeline_relationship_icon_attention@2x.png
+-rwxrwxrwx  1 radiohead  staff   507  7 21 21:08 timeline_relationship_icon_attention@3x.png
+-rwxrwxrwx  1 radiohead  staff  1070  7 21 21:08 verify_code_button@2x.png
+-rwxrwxrwx  1 radiohead  staff  1922  7 21 21:08 verify_code_button@3x.png
+-rwxrwxrwx  1 radiohead  staff  1070  7 21 21:08 verify_code_button_highlighted@2x.png
+-rwxrwxrwx  1 radiohead  staff  1677  7 21 21:08 verify_code_button_highlighted@3x.png
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/WeiboSDK.bundle/others:
+total 16
+drwxrwxrwx  1 radiohead  staff  264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  264  7 21 21:08 ..
+-rwxrwxrwx  1 radiohead  staff  826  7 21 21:08 countryList
+-rwxrwxrwx  1 radiohead  staff  577  7 21 21:08 mfp.cer
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/en.lproj:
+total 16
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+-rwxrwxrwx  1 radiohead  staff  5280  7 21 21:08 UMSocialLocalizable.strings
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.app/zh-Hans.lproj:
+total 16
+drwxrwxrwx  1 radiohead  staff   264  7 21 21:08 .
+drwxrwxrwx  1 radiohead  staff  6246 11 16 21:23 ..
+-rwxrwxrwx  1 radiohead  staff  5413  7 21 21:08 UMSocialLocalizable.strings
+
+./Intermediates/SwiftMigration/WhatDog/Products/Debug-iphonesimulator/WhatDog.swiftmodule:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:51 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 21:09 ..
+
+./Intermediates/WhatDog.build:
+total 8
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:54 .
+drwxrwxrwx@ 1 radiohead  staff   264 11 16 19:35 ..
+	com.apple.XcodeGenerated	   3 
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:35 Debug-iphoneos
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 Debug-iphonesimulator
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 Release-iphonesimulator
+-rwxrwxrwx  1 radiohead  staff  1102 11 16 21:01 all-product-headers.yaml
+
+./Intermediates/WhatDog.build/Debug-iphoneos:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:35 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:54 ..
+drwxrwxrwx  1 radiohead  staff  500 11 14 07:47 CameraViewController.build
+drwxrwxrwx  1 radiohead  staff  466 11 14 07:47 WhatDog.build
+
+./Intermediates/WhatDog.build/Debug-iphoneos/CameraViewController.build:
+total 96
+drwxrwxrwx  1 radiohead  staff   500 11 14 07:47 .
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:35 ..
+-rwxrwxrwx  1 radiohead  staff  1561 11 14 07:36 CameraViewController-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  1716 11 14 07:36 CameraViewController-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   356 11 14 07:36 CameraViewController-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff  1724 11 14 07:36 CameraViewController-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  1965 11 14 07:36 CameraViewController-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff  2342 11 14 07:36 CameraViewController.hmap
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:36 DerivedSources
+drwxrwxrwx  1 radiohead  staff   264 11 14 07:36 Objects-normal
+-rwxrwxrwx  1 radiohead  staff  3140 11 14 07:47 dgph
+-rwxrwxrwx  1 radiohead  staff   116 11 14 07:35 dgph~
+-rwxrwxrwx  1 radiohead  staff   202 11 14 07:36 module.modulemap
+-rwxrwxrwx  1 radiohead  staff   520 11 14 07:36 swift-overrides.hmap
+-rwxrwxrwx  1 radiohead  staff   524 11 14 07:36 unextended-module-overlay.yaml
+-rwxrwxrwx  1 radiohead  staff   212 11 14 07:36 unextended-module.modulemap
+
+./Intermediates/WhatDog.build/Debug-iphoneos/CameraViewController.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:36 .
+drwxrwxrwx  1 radiohead  staff  500 11 14 07:47 ..
+-rwxrwxrwx  1 radiohead  staff  226 11 14 07:36 CameraViewController_vers.c
+
+./Intermediates/WhatDog.build/Debug-iphoneos/CameraViewController.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:36 .
+drwxrwxrwx  1 radiohead  staff  500 11 14 07:47 ..
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:36 arm64
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:36 armv7
+
+./Intermediates/WhatDog.build/Debug-iphoneos/CameraViewController.build/Objects-normal/arm64:
+total 64
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:36 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:36 ..
+-rwxrwxrwx  1 radiohead  staff  26085 11 14 07:36 CameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   3468 11 14 07:36 CameraViewController.LinkFileList
+
+./Intermediates/WhatDog.build/Debug-iphoneos/CameraViewController.build/Objects-normal/armv7:
+total 64
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:36 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:36 ..
+-rwxrwxrwx  1 radiohead  staff  26085 11 14 07:36 CameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   3468 11 14 07:36 CameraViewController.LinkFileList
+
+./Intermediates/WhatDog.build/Debug-iphoneos/WhatDog.build:
+total 112
+drwxrwxrwx  1 radiohead  staff    466 11 14 07:47 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 ..
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 Objects-normal
+-rwxrwxrwx  1 radiohead  staff     73 11 14 07:35 Script-429F27A8DEA0FE4C313E40F8.sh
+-rwxrwxrwx  1 radiohead  staff     74 11 14 07:35 Script-51A051E9C807F06C09A00EAF.sh
+-rwxrwxrwx  1 radiohead  staff    259 11 14 07:35 Script-611248F3B18E9B3DDB7E74DE.sh
+-rwxrwxrwx  1 radiohead  staff   1561 11 14 07:35 WhatDog-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   1716 11 14 07:35 WhatDog-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    121 11 14 07:35 WhatDog-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff   1561 11 14 07:35 WhatDog-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   1965 11 14 07:35 WhatDog-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff   2008 11 14 07:35 WhatDog.hmap
+-rwxrwxrwx  1 radiohead  staff  10091 11 14 07:47 dgph
+-rwxrwxrwx  1 radiohead  staff    116 11 14 07:35 dgph~
+-rwxrwxrwx  1 radiohead  staff    481 11 14 07:35 swift-overrides.hmap
+
+./Intermediates/WhatDog.build/Debug-iphoneos/WhatDog.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:35 .
+drwxrwxrwx  1 radiohead  staff  466 11 14 07:47 ..
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:35 arm64
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:35 armv7
+
+./Intermediates/WhatDog.build/Debug-iphoneos/WhatDog.build/Objects-normal/arm64:
+total 48
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 ..
+-rwxrwxrwx  1 radiohead  staff  17122 11 14 07:35 WhatDog-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   2140 11 14 07:35 WhatDog.LinkFileList
+
+./Intermediates/WhatDog.build/Debug-iphoneos/WhatDog.build/Objects-normal/armv7:
+total 48
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:35 ..
+-rwxrwxrwx  1 radiohead  staff  17122 11 14 07:35 WhatDog-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   2140 11 14 07:35 WhatDog.LinkFileList
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:54 ..
+drwxrwxrwx  1 radiohead  staff  602 11 16 21:09 CameraViewController.build
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 WhatDog.build
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build:
+total 504
+drwxrwxrwx  1 radiohead  staff     602 11 16 21:09 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 20:22 CameraViewController-all-non-framework-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1561 11 16 21:01 CameraViewController-all-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff     363 11 14 07:47 CameraViewController-generated-files.hmap
+-rwxrwxrwx  1 radiohead  staff    1679 11 16 21:01 CameraViewController-own-target-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    1920 11 16 21:01 CameraViewController-project-headers.hmap
+-rwxrwxrwx  1 radiohead  staff    2194 11 16 21:01 CameraViewController.hmap
+-rwxrwxrwx  1 radiohead  staff     181 11 16 20:24 ConfirmViewController-PartialInfo.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 19:35 DerivedSources
+drwxrwxrwx  1 radiohead  staff     264 11 14 07:47 Objects-normal
+-rwxrwxrwx  1 radiohead  staff     460 11 16 20:24 assetcatalog_dependencies
+-rwxrwxrwx  1 radiohead  staff     181 11 16 20:24 assetcatalog_generated_info.plist
+-rwxrwxrwx  1 radiohead  staff  101145 11 16 21:01 dgph
+-rwxrwxrwx  1 radiohead  staff  101145 11 16 20:24 dgph~
+-rwxrwxrwx  1 radiohead  staff     121 11 16 21:09 module.modulemap
+-rwxrwxrwx  1 radiohead  staff     520 11 14 07:47 swift-overrides.hmap
+-rwxrwxrwx  1 radiohead  staff     538 11 14 07:47 unextended-module-overlay.yaml
+-rwxrwxrwx  1 radiohead  staff     212 11 14 07:47 unextended-module.modulemap
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/DerivedSources:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:35 .
+drwxrwxrwx  1 radiohead  staff  602 11 16 21:09 ..
+-rwxrwxrwx  1 radiohead  staff  349 11 16 19:35 CameraViewController_vers.c
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/Objects-normal:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 14 07:47 .
+drwxrwxrwx  1 radiohead  staff  602 11 16 21:09 ..
+drwxrwxrwx  1 radiohead  staff  670 11 16 20:22 x86_64
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator/CameraViewController.build/Objects-normal/x86_64:
+total 368
+drwxrwxrwx  1 radiohead  staff    670 11 16 20:22 .
+drwxrwxrwx  1 radiohead  staff    264 11 14 07:47 ..
+-rwxrwxrwx  1 radiohead  staff  14352 11 16 20:22 CameraGlobals.d
+-rwxrwxrwx  1 radiohead  staff    588 11 16 20:22 CameraGlobals.dia
+-rwxrwxrwx  1 radiohead  staff   7911 11 16 20:22 CameraGlobals.swiftdeps
+-rwxrwxrwx  1 radiohead  staff  14343 11 16 20:22 CameraShot.d
+-rwxrwxrwx  1 radiohead  staff    588 11 16 20:22 CameraShot.dia
+-rwxrwxrwx  1 radiohead  staff   7142 11 16 20:22 CameraShot.swiftdeps
+-rwxrwxrwx  1 radiohead  staff  26957 11 14 07:47 CameraViewController-OutputFileMap.json
+-rwxrwxrwx  1 radiohead  staff   2851 11 16 20:22 CameraViewController-master.swiftdeps
+-rwxrwxrwx  1 radiohead  staff    199 11 16 21:01 CameraViewController.LinkFileList
+-rwxrwxrwx  1 radiohead  staff    621 11 16 20:22 CameraViewController_dependency_info.dat
+-rwxrwxrwx  1 radiohead  staff    211 11 16 20:22 CameraViewController_vers.d
+-rwxrwxrwx  1 radiohead  staff    220 11 16 20:22 CameraViewController_vers.dia
+-rwxrwxrwx  1 radiohead  staff   2648 11 16 20:22 CameraViewController_vers.o
+-rwxrwxrwx  1 radiohead  staff  14349 11 16 20:22 ImageFetcher.d
+-rwxrwxrwx  1 radiohead  staff    916 11 16 20:22 ImageFetcher.dia
+-rwxrwxrwx  1 radiohead  staff  23049 11 16 20:22 ImageFetcher.swiftdeps
+-rwxrwxrwx  1 radiohead  staff  14379 11 16 20:22 PhotoLibraryAuthorizer.d
+-rwxrwxrwx  1 radiohead  staff    476 11 16 20:22 PhotoLibraryAuthorizer.dia
+-rwxrwxrwx  1 radiohead  staff   9750 11 16 20:22 PhotoLibraryAuthorizer.swiftdeps
+
+./Intermediates/WhatDog.build/Debug-iphonesimulator/WhatDog.build:
+total 32
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  9677 11 16 22:28 dgph
+-rwxrwxrwx  1 radiohead  staff   116 11 16 22:28 dgph~
+
+./Intermediates/WhatDog.build/Release-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:54 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 19:55 CameraViewController.build
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:29 WhatDog.build
+
+./Intermediates/WhatDog.build/Release-iphonesimulator/CameraViewController.build:
+total 16
+drwxrwxrwx  1 radiohead  staff   264 11 16 19:55 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  2267 11 16 19:55 dgph
+-rwxrwxrwx  1 radiohead  staff   116 11 16 19:54 dgph~
+
+./Intermediates/WhatDog.build/Release-iphonesimulator/WhatDog.build:
+total 32
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:29 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:28 ..
+-rwxrwxrwx  1 radiohead  staff  9709 11 16 22:29 dgph
+-rwxrwxrwx  1 radiohead  staff   116 11 16 22:28 dgph~
+
+./Products:
+total 0
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 .
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:33 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 Debug-iphonesimulator
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 Release-iphonesimulator
+
+./Products/Debug-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 ..
+	com.apple.XcodeGenerated	  3 
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ALCameraViewController.framework
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ALCameraViewController.framework.dSYM
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:24 CameraViewController.framework
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:07 WhatDog.swiftmodule
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework:
+total 1320
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff     376 11 16 22:30 ALCameraView.strings
+-rwxrwxrwx  1 radiohead  staff  581028 11 16 22:30 ALCameraViewController
+-rwxrwxrwx  1 radiohead  staff    5889 11 16 22:31 ALConfirmViewController.nib
+-rwxrwxrwx  1 radiohead  staff   75177 11 16 22:31 Assets.car
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 Headers
+-rwxrwxrwx  1 radiohead  staff     824 11 16 22:31 Info.plist
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 Modules
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework/Headers:
+total 24
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff   264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff  6674 11 16 22:30 ALCameraViewController-Swift.h
+-rwxrwxrwx  1 radiohead  staff   166 11 16 22:31 ALCameraViewController-umbrella.h
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework/Modules:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:30 ALCameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff  219 11 16 22:31 module.modulemap
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework/Modules/ALCameraViewController.swiftmodule:
+total 176
+drwxrwxrwx  1 radiohead  staff    264 11 16 22:30 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff    612 11 16 22:30 x86_64.swiftdoc
+-rwxrwxrwx  1 radiohead  staff  84520 11 16 22:30 x86_64.swiftmodule
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework.dSYM:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 Contents
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework.dSYM/Contents:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff  667 11 16 22:31 Info.plist
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 Resources
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework.dSYM/Contents/Resources:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 DWARF
+
+./Products/Debug-iphonesimulator/ALCameraViewController.framework.dSYM/Contents/Resources/DWARF:
+total 1240
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 .
+drwxrwxrwx  1 radiohead  staff     264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff  634320 11 16 22:31 ALCameraViewController
+
+./Products/Debug-iphonesimulator/CameraViewController.framework:
+total 192
+drwxrwxrwx  1 radiohead  staff    264 11 16 20:24 .
+drwxrwxrwx  1 radiohead  staff    264 11 16 22:31 ..
+-rwxrwxrwx  1 radiohead  staff  79476 11 16 20:24 Assets.car
+-rwxrwxrwx  1 radiohead  staff    511 11 16 20:22 CameraView.strings
+-rwxrwxrwx  1 radiohead  staff   7064 11 16 20:24 ConfirmViewController.nib
+drwxrwxrwx  1 radiohead  staff    264 11 16 20:22 Headers
+-rwxrwxrwx  1 radiohead  staff    817 11 16 20:24 Info.plist
+drwxrwxrwx  1 radiohead  staff    264 11 16 20:24 Modules
+
+./Products/Debug-iphonesimulator/CameraViewController.framework/Headers:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:22 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:24 ..
+-rwxrwxrwx  1 radiohead  staff  573 11 16 20:22 CameraViewController.h
+
+./Products/Debug-iphonesimulator/CameraViewController.framework/Modules:
+total 8
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:24 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:24 ..
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:06 CameraViewController.swiftmodule
+-rwxrwxrwx  1 radiohead  staff  202 11 16 20:24 module.modulemap
+
+./Products/Debug-iphonesimulator/CameraViewController.framework/Modules/CameraViewController.swiftmodule:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:06 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:24 ..
+
+./Products/Debug-iphonesimulator/WhatDog.swiftmodule:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 20:07 .
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:31 ..
+
+./Products/Release-iphonesimulator:
+total 0
+drwxrwxrwx  1 radiohead  staff  264 11 16 22:28 .
+drwxrwxrwx@ 1 radiohead  staff  264 11 16 19:55 ..
+	com.apple.XcodeGenerated	  3 
